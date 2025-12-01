@@ -4,6 +4,10 @@ hello there i am just a regular nobody i keep deleting my accounts cuz sometimes
 Just know me by my traits and u maybe able to identify me later
 - i am a clown
 - i like computer science
+- professional capitalism hater (Marx X Lenin Yaoi Enjoyer)
+- opensource fanboy (most games i play are open source)
+- i like cats
+- 
   
 Here are some thinks i like to code
 - scanners (ip, urls, files)
