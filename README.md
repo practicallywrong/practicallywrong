@@ -7,7 +7,6 @@ Just know me by my traits and u maybe able to identify me later
 - professional capitalism hater (Marx X Lenin Yaoi Enjoyer)
 - opensource fanboy (most games i play are open source)
 - i like cats
-- 
   
 Here are some thinks i like to code
 - scanners (ip, urls, files)
