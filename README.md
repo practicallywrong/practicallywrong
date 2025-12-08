@@ -10,7 +10,7 @@ Just know me by my traits and u maybe able to identify me later
   
 Here are some thinks i like to code
 - scanners (ip, urls, files)
-- networking stuff (from scratch)
+- networking stuff
 - games (i am trying to learn game dev rn learning opengl)
 - mostly backend stuff ( idk like i find doing frontend very boring and tedious i just like minimal frontend with high functionality)
 - distributed systems (i love p2p decenteralized systems)
