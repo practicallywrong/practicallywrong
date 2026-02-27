@@ -1,17 +1,6 @@
-# Best class clown
-hello there i am just a regular nobody i keep deleting my accounts cuz sometimes i just loose it.
+# Real Retard (idk shit)
 
-Just know me by my traits and u maybe able to identify me later
-- i am a clown
 - i like computer science
 - professional capitalism hater (Marx X Lenin Yaoi Enjoyer)
-- opensource fanboy (most games i play are open source)
+- opensource femboys pls
 - i like cats
-  
-Here are some thinks i like to code
-- scanners (ip, urls, files)
-- networking stuff
-- games (i am trying to learn game dev rn learning opengl)
-- mostly backend stuff ( idk like i find doing frontend very boring and tedious i just like minimal frontend with high functionality)
-- distributed systems (i love p2p decenteralized systems)
-- small utilities (small programs that help me daily to do repeted task fast and easily, they are very much tailored just for me)
